@@ -1,0 +1,23 @@
+package ustdemo;
+
+public class npattern {
+	public static void main(String[] args) {
+		int i;
+		for(i=1;i<=8;i++) 
+		{
+		if(i<=3)
+		{
+				System.out.println(1+""+(i)+"");
+		i=i+1;
+		System.out.println();
+		}
+	else
+	{
+		System.out.println(""+i+""+(i+1));
+		System.out.println();
+		}
+		
+
+		}
+	}
+}

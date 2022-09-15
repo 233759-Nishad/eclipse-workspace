@@ -1,0 +1,26 @@
+package ustdemo;
+
+public class pattern {
+	public static void main(String[] args) {
+		int i;
+		for(i=1;i<=6;i++) 
+		{
+		if(i==3)
+		{
+				System.out.println((i+1)+""+(i+1)+"");
+		i=i+1;
+		System.out.println();
+		}
+	else
+	{
+		System.out.print(""+i+""+(i+1));
+		System.out.println();
+		}
+		
+		
+		
+	
+}
+
+}
+	}

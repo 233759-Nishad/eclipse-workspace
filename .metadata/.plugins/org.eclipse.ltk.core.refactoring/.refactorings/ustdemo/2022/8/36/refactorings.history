@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ustdemo.primefctr&apos; to &apos;oddeven&apos;&#x0D;&#x0A;- Original project: &apos;ustdemo&apos;&#x0D;&#x0A;- Original element: &apos;ustdemo.primefctr&apos;&#x0D;&#x0A;- Renamed element: &apos;ustdemo.oddeven&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;primefctr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ustdemo{primefctr.java[primefctr" matchStrategy="1" name="oddeven" qualified="false" references="true" similarDeclarations="false" stamp="1661860365249" textual="false" version="1.0"/>
+</session>

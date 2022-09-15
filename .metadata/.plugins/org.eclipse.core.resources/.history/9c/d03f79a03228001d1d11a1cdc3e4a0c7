@@ -1,0 +1,33 @@
+package ustdemo;
+
+public class multi {
+	public static void main(String[] args) {
+		int i,j,k;
+		System.out.println("Multiplication Table of 24");
+
+		for( i=1;i<=10;i++)
+		{
+			int m=24;
+			
+			System.out.println(i+" * 24 = "+m);
+		}
+		System.out.println("Multiplication Table of 50");
+
+		for( i=1;i<=10;i++)
+		{
+			int m=24;
+			
+			System.out.println(i+" * 50 = "+m);
+		}
+		System.out.println("Multiplication Table of 29");
+
+		for( i=1;i<=10;i++)
+		{
+			int m=24;
+			
+			System.out.println(i+" * 29 = "+m);
+		}
+	}
+	}
+
+}

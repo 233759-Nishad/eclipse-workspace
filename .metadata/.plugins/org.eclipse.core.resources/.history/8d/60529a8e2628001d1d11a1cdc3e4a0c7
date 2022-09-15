@@ -1,0 +1,31 @@
+package ustdemo;
+
+public class npattern {
+	public static void main(String[] args) {
+		int i;
+		int j=1;
+		for(i=1;i<=7;i++) 
+		{
+		while(i<=3)
+		{
+				System.out.println(1+""+(i)+"");
+		i=i+1;
+		}
+	while(i==4)
+	{
+		System.out.println(""+2+""+1);
+		
+		
+		}
+	while(i<=7)
+	{
+		
+			System.out.println(3+""+(j)+"");
+	j=j+1;
+	
+	}
+		
+
+		}
+	}
+}

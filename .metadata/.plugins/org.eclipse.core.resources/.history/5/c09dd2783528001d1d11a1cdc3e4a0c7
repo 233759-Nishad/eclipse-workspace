@@ -1,0 +1,22 @@
+package ustdemo;
+
+public class pattern3 {
+	public static void main(String[] args) {
+		int i,j;
+		for(i=3;i>=0;i--)
+		{	
+			for(j=0;j<7;j++)
+			{
+				if(i%2==0)
+				{
+				System.out.print("0");
+				}
+				else
+				{
+					System.out.print("1");
+				}
+		}
+		System.out.println("*");
+		}
+}
+}
