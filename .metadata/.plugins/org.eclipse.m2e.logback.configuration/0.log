@@ -425,3 +425,12 @@
 2022-09-16 12:03:36,493 [Worker-24: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb110\eclipse-workspace\demo\src\main\resources
 2022-09-16 12:03:36,495 [Worker-24: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-16 12:03:36,495 [Worker-24: Launching Testcalculator] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb110\eclipse-workspace\demo\src\test\resources
+2022-09-17 12:02:13,977 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-17 12:02:13,977 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb110\eclipse-workspace\demo\src\main\resources
+2022-09-17 12:02:13,979 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-17 12:02:13,979 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb110\eclipse-workspace\demo\src\test\resources
+2022-09-20 10:30:55,141 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-20 10:37:26,730 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-20 10:37:26,733 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb110\eclipse-workspace\demo\src\main\resources
+2022-09-20 10:37:26,736 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-20 10:37:26,737 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ustjavafsdb110\eclipse-workspace\demo\src\test\resources
