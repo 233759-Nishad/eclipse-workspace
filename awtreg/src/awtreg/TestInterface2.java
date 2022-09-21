@@ -1,8 +1,5 @@
 package awtreg;
 
-
-
-
 interface Bank{
     float rateOfInterest();
 }
