@@ -16,7 +16,5 @@ public class HashToTree {
 		System.out.println(hashset);
 		Set<String> hashtotree = new TreeSet<String>(hashset);
 		System.out.println(hashtotree);
-		
 	}
-
 }
