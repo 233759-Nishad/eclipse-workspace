@@ -1,7 +1,3 @@
-/*
-Hashset - elts are in order of hashcode
-Treeset - in sorted order
-*/
 
 import java.util.*;
 public class HashToTree {
